@@ -1,5 +1,5 @@
 # This will be the first part of the title tag for your site <title> site.name + page.title </title>
-title: Supply
+title: 2308ashekei
 url: "https://supply.templates.supply" # the base hostname & protocol for your site, e.g. http://example.com, also used in jekyll-seo-tag
 baseurl:
 repo: https://github.com/YJPL/Supply/
@@ -8,21 +8,20 @@ google_analytics_key:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 tagline:
-description: Jekyll template for e-commerce with Gumroad integration
+description: Test website
 author:
-  name: Supply
+  name: 2308ashekei.kz
   email:
-  twitter: TemplatesSupply # twitter username without the @ symbol
+  twitter:  # twitter username without the @ symbol
   phone: ""
 social:
-  name: Templates Supply # replace this
+  name: 2308ashekei.kz # replace this
   links:
-    - https://github.com/YJPL/supply
-    - https://www.linkedin.com/company/templates-supply/
+    - 2308ashekei.kz
 
 # Build settings
 markdown: kramdown
-timezone: FR
+timezone: RU
 
 collections:
   products:
@@ -76,18 +75,15 @@ exclude:
   - vendor/ruby/
 
 # Contact settings
-formcarry: https://formcarry.com/ # add you formcarry endpoint url (see https://formcarry.com/documentation/getting-started)
+#formcarry: https://formcarry.com/ # add you formcarry endpoint url (see https://formcarry.com/documentation/getting-started)
 
 # Social
 
 social_icons:
   - Email
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - RSS
